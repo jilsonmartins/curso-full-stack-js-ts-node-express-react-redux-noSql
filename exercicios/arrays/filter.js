@@ -1,6 +1,5 @@
 /** 
 //OBS: Filter retorna um novo array atraves de uma função de callback(valor, indice, array).
-
 const numeros = [5, 50, 80, 1, 2, 3, 5, 8, 7, 11, 15, 22, 27];
 
 function callbackFilter(valor) {
